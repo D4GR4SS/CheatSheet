@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #f4f4f4;
+  background-color: #292e49;
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+main {
+  position: relative;
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+h1 {
+  color: #536976;
+  font-weight: 100;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 2rem;
+  letter-spacing: 3px;
+}
+
+table {
+  border: 2px solid #536976;
+  width: 660px;
+  margin: 0 auto;
+  text-align: left;
+  font-size: 1rem;
+  font-size: 0.8rem;
+  overflow: hidden;
+}
+
+thead {
+  font-weight: 700;
+  font-size: 1.2rem;
+  background-color: #536976;
+}
+
+.code {
+  background-color: #bbd2c5;
+  color: #536976;
+}
+
+a {
+  color: beige;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background-color: #536976;
+  text-align: center;
+  width: 100%;
+}
